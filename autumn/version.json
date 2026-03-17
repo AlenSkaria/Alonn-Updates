@@ -1,6 +1,7 @@
 {
+  "enabled": true,
   "latestVersion": "1.0.1",
   "priority": "low",
-  "releaseNotes": "Initial release of Autumn! Enjoy learning Japanese with premium audio and interactive drills.",
-  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.autumn.app"
+  "releaseNotes": "Initial release!",
+  "playStoreUrl": "..."
 }
